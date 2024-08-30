@@ -2,8 +2,7 @@
 - 👀 I’m interested in hacking and programing
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on python and java
-- 📫 How to reach me . Instagram:- @t9hxa
-ahm i love you Antara 
+- 📫 How to reach me . telegram @tarxHMU
 
 <!---
 deadprogramers/deadprogramers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
